@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2f16fa49c1e3ae4102e2de61c23c6892a351396c59f8bd0c5231323da9a49603"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "af824776d717346e61b1106fbdc354da51a6c83d965fcd2af88e1d94c641b708"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e59cdb63f686a93ac60b490130e860723914abb43d508f0f5631e5a0c888f4c5"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "0a068bf7d22e7d03f82d045139601d5d90b3dec04f4437e091193da8fc1996dc"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "ba921e992ebff5993abc69a52f43a6e5d54198e91613442c9ae6fe4f29bbff47"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "61afd15439de1697ec454b65229ce97a7ad4220caf3132cc7ab8efd57380877b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4e596f70957b214851ee57422d421ec59037425f5b209fc5813d44918d91c1b9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2600531abea1670221c21edf73d7024cf1285f58bca3a838777f957e5e17f477"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ca67273e7f26547cdd3d8848ae000094e980a2a7c92384b990b6116706950598"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ce0282aa9a31909cba4c187bbf1ea0df1c0cd6077d21f89130116f6051a8d6ca"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4f05ff13dcf8dca0b031482201fb50d2f3578bdd35a903fa4ebced932923b644"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "d668b042ee20d778d6602351a15084fa3821218701190fb50729d4213427f3d2"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "92d482c7d5c7c82674ce738bfd0d062b53107b7c4a7a8b5de7a9f3efcc731d5c"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "cdb83dc0ada825bcbba8c62218d125657000f62f8cebd550d9bc056660256e48"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "7213a1801157e1108b7368c18d3ec597396561b531ae2e7d872876ba7331c9e6"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "279764a6cd7b6bc637f8d451ecd6fbcdd2be3692d6cd4b722ddf04e179d2bc89"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "9f0a887889e390392d33f7f2c53fd28fd58a86a84125ff5d23181fae6594f17f"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
