@@ -46,6 +46,11 @@ hash = "4e596f70957b214851ee57422d421ec59037425f5b209fc5813d44918d91c1b9"
 metafile = true
 
 [[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "8455a09291dec2839233c63f99cf6535afdaf9698b8fe624a86b97523877aa9d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f37f5fd3fda8611c289c24ea9ba0e9e9619e9480020d292309c20a08cba64baf"
 metafile = true
 
 [[files]]
@@ -116,6 +126,11 @@ hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
+file = "mods/tabtps.pw.toml"
+hash = "38973b77104290a3ca512fb3e15458aea60ec337a632f537c02bb358ea520ec2"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "7213a1801157e1108b7368c18d3ec597396561b531ae2e7d872876ba7331c9e6"
 metafile = true
@@ -131,8 +146,18 @@ hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
 metafile = true
 
 [[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "746a402d03fbc14a03739bd80df197bd1f99e806ddbef5ce0ae8d9622888e75d"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "279764a6cd7b6bc637f8d451ecd6fbcdd2be3692d6cd4b722ddf04e179d2bc89"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f732080e3bdb9a7272afd9ccaa17c8520136fb62af4bd7402532e1e8905ae129"
 metafile = true
 
 [[files]]
