@@ -1,0 +1,13 @@
+name = "Relentleserver"
+author = "Trcmoe"
+version = "v0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "96630a32c958b2b1b2d1b47db48eccff938aba325ad21b437f51b3aae6a3ba0f"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"

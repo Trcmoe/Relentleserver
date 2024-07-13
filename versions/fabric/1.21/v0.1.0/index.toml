@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "c4a3dddbd6bbddc35e53142b8325f812900e33e3a630cd902dabf49b1ba5c189"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "b6c0bf5c25dca0825051caa2619b27283777dbbd3bd5896989b8e111cd385d27"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "b5e5ea0a8153f24ea2e677c5da7b4e5c3d1236614862994d516e55952deb48b6"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "bacaf1eed2ea3b650e9f662187bd7976c3c94b1bf808b62297d501605c5d89bd"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
+metafile = true
+
+[[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "313beca382b2e140a7c754ef3cdab66b68299258cade9226205cca606bd5c2f3"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "2c707336883229e55c6a4278e9a37ccba55d6d85f34fa7c90221807b6dce9644"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/gca.pw.toml"
+hash = "f2212f81c00084e8163413053adfcb91254cbb96bf45b370603cd0f815750a25"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "47f6efdca29b585b4265d18edf6c6be56fbefbdf889ad6f9e7e01d91dfa581b6"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "335717664876d81273f49ae98f5ac9913c58dbc193a4159cf6c2f7cb79178236"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "d40da29aa9bf0acaeeecaa58a31b6531c59c6de5d82c22099b118854b4f30cf0"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "53e83310d4ab5cc5a29ca58985dee1f0fcf5219d9c9910d434532d9f0f379585"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "9e2582acfe6725f2e933eacad0cb78467ce12dd2274d86418bb0b61c5da7410c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+metafile = true
